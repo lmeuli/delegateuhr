@@ -15,7 +15,6 @@ namespace DelegateUhr
         //privat von aussen geschützt
         private ClockDelegat DelegatedMethod;
 
-
         public event ClockDelegat Tick;
 
         /// <summary>
@@ -44,6 +43,8 @@ namespace DelegateUhr
             //Ab VS2015 wäre folgndes möglich
             //DelegatedMethod?.Invoke(e.SignalTime);
 
+            //Tick?.Invoke(e.SignalTime);
+
             //if (DelegatedMethod != null)
             //{
             //    DelegatedMethod(e.SignalTime);
@@ -54,6 +55,8 @@ namespace DelegateUhr
             //}
 
             //Tick.Invoke(e.SignalTime);
+
+
             if (Tick != null)
             {
                 Tick.Invoke(e.SignalTime);
@@ -70,10 +73,10 @@ namespace DelegateUhr
             //    {
             //    callback(e.SignalTime);
             //    }
-                //catch (Exception exception)
-                //{
-                //    Console.WriteLine(exception.Message);
-                //}
+            //catch (Exception exception)
+            //{
+            //    Console.WriteLine(exception.Message);
+            //}
             //}
         }
 

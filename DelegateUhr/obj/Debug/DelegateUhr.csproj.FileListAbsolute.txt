@@ -4,3 +4,9 @@ E:\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\bin\Debug\DelegateUhr.pdb
 E:\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\obj\Debug\DelegateUhr.csprojResolveAssemblyReference.cache
 E:\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\obj\Debug\DelegateUhr.exe
 E:\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\obj\Debug\DelegateUhr.pdb
+C:\Users\lukas\Documents\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\bin\Debug\DelegateUhr.exe.config
+C:\Users\lukas\Documents\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\obj\Debug\DelegateUhr.exe
+C:\Users\lukas\Documents\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\obj\Debug\DelegateUhr.pdb
+C:\Users\lukas\Documents\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\bin\Debug\DelegateUhr.exe
+C:\Users\lukas\Documents\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\bin\Debug\DelegateUhr.pdb
+C:\Users\lukas\Documents\CAS BFH\Uebungen\DelegateUhr\DelegateUhr\obj\Debug\DelegateUhr.csprojResolveAssemblyReference.cache
